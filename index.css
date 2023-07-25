@@ -1,0 +1,61 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+/* começo cabeçalho */
+#logo{
+    width: 1200px;
+    height: 40px;
+    background-color: rgb(152, 123,93);
+    margin: auto;
+    line-height: 40px;
+    color: white;
+    text-align: center;
+}
+#logoo{
+    width: 40px;
+    float: left;
+    margin: 0px 40px;
+}
+#cabecalho{
+    width: 1200px;
+    height: 40px;
+    background-color: wheat;
+    margin: 0px auto;
+    text-align: center;
+    line-height: 40px;
+}
+.linkscabecalho{
+    margin: 0px 10px;
+}
+.linkativo{
+    padding: 10px;
+    color: brown;
+}
+a{
+    text-decoration: none;
+    color: #8390fa;
+}
+body{
+    background-color: rgb(235, 235, 235);
+}
+/* fim cabeçalho */
+
+/* começo conteudo */
+
+#conteudo{
+    width: 1000px;
+    height: auto;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+    text-align: center;
+}
+#banner{
+    width: 800px;
+    height: 400px;
+    margin: 20px;
+    border-radius: 5px;
+}
+/* fim conteudo */
